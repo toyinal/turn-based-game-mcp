@@ -1,6 +1,7 @@
 # Contributor Covenant Code of Conduct
 
 ## Every Player Must Accept this Pledge
+We expect all players to accept this Code of Conduct before being allowed to play this game
 
 ## Our Pledge
 
